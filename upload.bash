@@ -1,5 +1,7 @@
-git add /root/miniproject/backup_loss.txt
-git commit -m "1"
+git add .
+date=$(date +%d%m%y)
+
+git commit -m "A"$d
 
 git push origin master
 
