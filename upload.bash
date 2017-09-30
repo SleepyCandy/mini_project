@@ -1,5 +1,5 @@
 git add .
-date=$(date +%d%m%y)
+date=$(date +%d%m%y%H%M)
 
 git commit -m "A"$d
 
